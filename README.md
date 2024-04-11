@@ -30,11 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 🏗️**重心**：
 - Stable Diffusion 生态 + ComfyUI：
-    - ComfyPark 社区筹备中 | 安装与部署 | 系统教程 | 模块+模组 | 工作流设计 | 定制化UI
-    - 编写、汉化或优化自定义节点
-    - 设计工作流
-    - 完成2000+节点测试
-    - 未来推出ComfyUI的一个优化版本
+    - Mac方向开发工具开发
+    - 未来推出ComfyUI的一个在Mac平台更加高效优化版本
 - AIGC 传播理论，关注相关发展
 
 🌟 **技能**：
