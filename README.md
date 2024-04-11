@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 👋 Hi，我是 Zho ！
+## 👋 Hi，我是 Zhi ！
 
 <!---
 精简版
