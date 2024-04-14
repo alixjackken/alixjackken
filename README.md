@@ -11,11 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 👋 Hi，我是 Zhi ！
-
-<!---
-精简版
---->
 ## 👋 Hi，我是 然而(Zhi) ！
 
 <!---
